@@ -9,6 +9,8 @@ target 'wetest' do
   pod 'SnapKit', '~> 5.0.1'
   pod 'RxSwift', '~> 5.1.2'
   pod 'RxCocoa', '~> 5.1.1'
+  pod 'RxDataSources', '~> 4.0'
+  pod 'RxGesture', '~> 3.0.2'
   pod 'ReactorKit', '~> 2.1.1'
   pod 'Moya/RxSwift', '~> 14.0'
   pod 'MoyaSugar', '~> 1.3.3'
